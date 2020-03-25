@@ -1,0 +1,281 @@
+HUES6
+VCaP
+GM23248
+temporal lobe male adult (81 years)
+spinal cord female embryo (108 days)
+K562
+foreskin keratinocyte male newborn (2-4 days)
+foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 5.5 days
+placenta male embryo (16 weeks)
+large intestine male embryo (108 days)
+chorionic villus embryo (16 weeks)
+skeletal muscle tissue female adult (72 years)
+liver male adult (31 years)
+rectal smooth muscle tissue female adult (50 years)
+endodermal cell originated from HUES64
+naive thymus-derived CD4-positive, alpha-beta T cell
+muscle of leg female embryo (110 days)
+temporal lobe female adult (75 years)
+osteoblast
+lung female adult (30 years)
+natural killer cell male adult (37 years)
+chorionic villus female embryo (40 weeks)
+MCF-7
+placental basal plate male embryo (38 weeks)
+trophoblast female embryo (40 weeks)
+parathyroid adenoma male adult (65 years)
+CD4-positive, alpha-beta memory T cell
+B cell male adult (37 years)
+chorion male embryo (16 weeks)
+duodenal mucosa male adult (59 years)
+kidney male adult (67 years)
+middle frontal area 46 male adult (81 years)
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days
+GM23338 originated from GM23248
+foreskin keratinocyte male newborn (2-4 days) treated with 1.2 mM calcium for 2.5 days
+caudate nucleus male adult (81 years)
+liver female adult (25 years)
+MCF-7
+chorion female embryo (40 weeks)
+placenta embryo (16 weeks)
+chorionic villus male embryo (38 weeks)
+UCSF-4
+peripheral blood mononuclear cell male adult (39 years)
+layer of hippocampus male adult (73 years)
+iPS DF 19.11
+iPS-20b
+trophoblast female embryo (20 weeks)
+placental basal plate female embryo (40 weeks)
+pancreas female adult (30 years)
+HepG2
+HUES48
+CD8-positive, alpha-beta memory T cell
+ectodermal cell originated from HUES64
+cingulate gyrus female adult (75 years)
+aorta female adult (30 years)
+foreskin fibroblast male newborn
+RWPE1
+T-cell male adult (37 years)
+endocrine pancreas male adult (45 years)
+foreskin melanocyte male newborn
+stomach female adult (30 years)
+endocrine pancreas adult (59 years)
+layer of hippocampus female adult (75 years)
+HUES64
+effector memory CD4-positive, alpha-beta T cell
+cingulate gyrus male adult (81 years)
+angular gyrus female adult (75 years)
+small intestine female adult (30 years)
+foreskin melanocyte male newborn
+colonic mucosa female adult (73 years)
+CD4-positive, alpha-beta T cell male adult (21 years)
+adrenal gland male embryo (97 days)
+common myeloid progenitor, CD34-positive female adult (33 years)
+muscle layer of duodenum male adult (59 years)
+thymus male child (3 years)
+muscle of trunk female embryo (115 days)
+psoas muscle male child (3 years)
+neutrophil
+adipose tissue male adult (34 years)
+stomach female embryo (96 days)
+small intestine male embryo (108 days)
+middle frontal area 46 female adult (75 years)
+angular gyrus male adult (81 years)
+peripheral blood mononuclear cell male adult (32 years)
+mucosa of rectum female adult (61 years)
+H1
+common myeloid progenitor, CD34-positive female adult (27 years)
+neural cell originated from H1
+HCT116
+HEK293
+GM12878
+caudate nucleus female adult (75 years)
+T-helper 17 cell treated with phorbol 13-acetate 12-myristate , ionomycin
+substantia nigra male adult (81 years)
+heart right ventricle male child (3 years)
+spleen male adult (34 years)
+Peyer's patch female adult (51 years)
+heart right ventricle male adult (34 years)
+myotube originated from skeletal muscle myoblast
+ovary female adult (30 years)
+kidney male adult (50 years)
+CD4-positive, alpha-beta T cell treated with phorbol 13-acetate 12-myristate , ionomycin
+thyroid gland female adult (51 years)
+C4-2B
+placenta female embryo (113 days)
+small intestine male child (3 years)
+iPS-18a
+CD8-positive, alpha-beta T cell
+CD14-positive monocyte female
+transverse colon female adult (51 years)
+mesodermal cell originated from HUES64
+gastrocnemius medialis female adult (51 years)
+RWPE2
+CD14-positive monocyte male adult (21 years)
+keratinocyte female
+sigmoid colon male adult (34 years)
+stomach male adult (34 years)
+amnion male embryo (16 weeks)
+colonic mucosa female adult (56 years)
+sigmoid colon male adult (54 years)
+naive thymus-derived CD4-positive, alpha-beta T cell
+transverse colon male adult (54 years)
+body of pancreas male adult (54 years)
+fibroblast of breast female adult (26 years)
+chorionic villus male embryo (16 weeks)
+prostate gland male adult (54 years)
+trophoblast cell originated from H1
+endothelial cell of umbilical vein male newborn
+neural stem progenitor cell originated from H1
+22Rv1
+subcutaneous abdominal adipose tissue nuclear fraction female adult (49 years)
+peripheral blood mononuclear cell female adult (28 years)
+layer of hippocampus male adult (81 years)
+OCI-LY3
+psoas muscle female adult (30 years)
+mesenchymal stem cell originated from H1
+SK-N-SH
+CD4-positive, alpha-beta T cell
+A549 treated with 100 nM dexamethasone for 1 hour
+Panc1
+foreskin keratinocyte male newborn
+IMR-90
+parathyroid adenoma male adult (62 years)
+HCT116
+mucosa of rectum female adult (50 years)
+spleen male child (3 years)
+SK-N-SH
+aorta male adult (34 years)
+A549 treated with 0.02% ethanol for 1 hour
+CD4-positive, CD25-positive, alpha-beta regulatory T cell
+adrenal gland female adult (30 years)
+esophagus female adult (30 years)
+spleen female adult (30 years)
+muscle layer of colon female adult (56 years)
+fibroblast of breast female adult (17 years)
+foreskin fibroblast male newborn
+foreskin fibroblast male newborn
+CD4-positive, alpha-beta memory T cell
+lung male child (3 years)
+thymus female embryo (110 days)
+CD8-positive, alpha-beta T cell male adult (21 years)
+mesendoderm originated from H1
+esophagus muscularis mucosa female adult (51 years)
+iPS DF 6.9
+sigmoid colon male child (3 years)
+sigmoid colon female adult (51 years)
+prostate gland male adult (37 years)
+esophagus male adult (34 years)
+adrenal gland male adult (34 years)
+neuroepithelial stem cell genetically modified using stable transfection originated from H9
+esophagus muscularis mucosa male adult (37 years)
+stomach female adult (53 years)
+smooth muscle cell originated from H9
+hepatocyte originated from H9
+DND-41
+tibial nerve female adult (51 years)
+B cell female adult (27 years)
+AG04450
+neurosphere embryo (15 weeks) originated from ganglionic eminence
+SK-N-MC
+thyroid gland female adult (53 years)
+vagina female adult (53 years)
+DOHH2
+SU-DHL-6
+OCI-LY7
+esophagus squamous epithelium female adult (51 years)
+spleen male adult (54 years)
+thyroid gland male adult (37 years)
+PC-3
+KMS-11
+stomach smooth muscle female adult (84 years)
+epithelial cell of prostate male
+ovary female adult (51 years)
+stomach male child (3 years)
+ACC112
+psoas muscle male adult (34 years)
+vagina female adult (51 years)
+body of pancreas female adult (51 years)
+22Rv1 treated with 10 nM 17β-hydroxy-5α-androstan-3-one for 4 hours
+thoracic aorta male adult (54 years)
+stomach male adult (37 years)
+coronary artery female adult (51 years)
+tibial nerve male adult (37 years)
+breast epithelium female adult (51 years)
+esophagus squamous epithelium male adult (54 years)
+KOPT-K1
+testis male adult (54 years)
+esophagus squamous epithelium female adult (53 years)
+ascending aorta female adult (53 years)
+heart left ventricle female adult (53 years)
+adrenal gland female adult (51 years)
+spleen female adult (51 years)
+cardiac muscle cell originated from RUES2
+upper lobe of left lung male adult (54 years)
+OCI-LY1
+MM.1S
+tibial nerve female adult (53 years)
+heart left ventricle male child (3 years)
+stomach male adult (54 years)
+adrenal gland female adult (53 years)
+testis male adult (37 years)
+fibroblast of dermis
+heart left ventricle male adult (34 years)
+thoracic aorta male adult (37 years)
+coronary artery female adult (53 years)
+spleen female adult (53 years)
+transverse colon female adult (53 years)
+uterus female adult (51 years)
+esophagus muscularis mucosa female adult (53 years)
+sigmoid colon female adult (53 years)
+breast epithelium female adult (53 years)
+right atrium auricular region female adult (53 years)
+H9
+gastroesophageal sphincter female adult (51 years)
+upper lobe of left lung female adult (51 years)
+tibial nerve male adult (54 years)
+gastrocnemius medialis male adult (37 years)
+thyroid gland male adult (54 years)
+gastrocnemius medialis male adult (54 years)
+stomach female adult (51 years)
+right atrium auricular region female adult (51 years)
+Peyer's patch male adult (37 years)
+esophagus squamous epithelium male adult (37 years)
+neural progenitor cell originated from H9
+body of pancreas male adult (37 years)
+mammary epithelial cell female adult (50 years)
+tibial artery male adult (54 years)
+ascending aorta female adult (51 years)
+heart left ventricle female adult (51 years)
+PC-9
+body of pancreas female adult (53 years)
+adrenal gland male adult (54 years)
+Karpas-422
+Peyer's patch male adult (54 years)
+gastroesophageal sphincter female adult (53 years)
+H1
+gastroesophageal sphincter male adult (54 years)
+esophagus muscularis mucosa male adult (54 years)
+uterus female adult (53 years)
+right lobe of liver female adult (53 years)
+transverse colon male adult (37 years)
+upper lobe of left lung female adult (53 years)
+Peyer's patch female adult (53 years)
+fibroblast of lung female child (11 years) and male adult (45 years)
+skeletal muscle myoblast male adult (22 years)
+spleen male adult (37 years)
+pancreas male adult (34 years)
+right cardiac atrium male adult (34 years)
+small intestine male adult (34 years)
+A673
+liver male adult (32 years)
+urinary bladder male adult (34 years)
+astrocyte
+upper lobe of left lung male adult (37 years)
+suprapubic skin male adult (37 years)
+tibial artery male adult (37 years)
+gastroesophageal sphincter male adult (37 years)
+adrenal gland male adult (37 years)
+sigmoid colon male adult (37 years)
+gastrocnemius medialis female adult (53 years)
+HeLa-S3

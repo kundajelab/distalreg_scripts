@@ -1,0 +1,73 @@
+adrenal gland female adult (53 years)
+AG04450
+astrocyte
+B cell male adult (37 years)
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days
+CD14-positive monocyte female
+CD14-positive monocyte male adult (21 years)
+CD4-positive, alpha-beta T cell male adult (21 years)
+CD8-positive, alpha-beta T cell male adult (21 years)
+common myeloid progenitor, CD34-positive female adult (27 years)
+common myeloid progenitor, CD34-positive female adult (33 years)
+coronary artery female adult (51 years)
+coronary artery female adult (53 years)
+esophagus muscularis mucosa male adult (37 years)
+esophagus squamous epithelium male adult (37 years)
+foreskin fibroblast male newborn
+foreskin keratinocyte male newborn
+foreskin melanocyte male newborn
+GM12878
+GM23248
+GM23338 originated from GM23248
+H1
+H9
+HCT116
+heart left ventricle female adult (53 years)
+HeLa-S3
+hepatocyte originated from H9
+HepG2
+IMR-90
+iPS DF 19.11
+iPS DF 6.9
+K562
+Karpas-422
+keratinocyte female
+large intestine male embryo (108 days)
+MCF-7
+mesenchymal stem cell originated from H1
+mesendoderm originated from H1
+myotube originated from skeletal muscle myoblast
+naive thymus-derived CD4-positive, alpha-beta T cell
+natural killer cell male adult (37 years)
+neural progenitor cell originated from H9
+neural stem progenitor cell originated from H1
+OCI-LY7
+osteoblast
+ovary female adult (30 years)
+Panc1
+pancreas female adult (30 years)
+pancreas male adult (34 years)
+PC-9
+Peyer's patch male adult (37 years)
+placenta female embryo (113 days)
+psoas muscle male child (3 years)
+right atrium auricular region female adult (51 years)
+RWPE1
+sigmoid colon female adult (51 years)
+sigmoid colon female adult (53 years)
+sigmoid colon male adult (54 years)
+SK-N-MC
+small intestine male embryo (108 days)
+stomach female adult (51 years)
+stomach female embryo (96 days)
+stomach male adult (34 years)
+stomach male adult (54 years)
+stomach male child (3 years)
+T-cell male adult (37 years)
+testis male adult (54 years)
+tibial nerve female adult (51 years)
+transverse colon female adult (51 years)
+trophoblast cell originated from H1
+upper lobe of left lung male adult (37 years)
+vagina female adult (51 years)
+vagina female adult (53 years)

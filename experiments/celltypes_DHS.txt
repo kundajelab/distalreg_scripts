@@ -1,0 +1,580 @@
+cardiac fibroblast female adult
+HTR-8/SVneo
+epidermal melanocyte
+frontal cortex male adult (27 years) and male adult (35 years)
+MCF 10A treated with 1 μM tamoxifen for 6 hours
+GM06990
+MCF-7 genetically modified using RNAi
+glomerular endothelial cell
+right arm bone male embryo (81 days)
+chorion
+right leg bone male embryo (81 days)
+GM03348
+fibroblast of the conjunctiva
+brain pericyte
+dermis blood vessel endothelial cell female adult
+retinal pigment epithelial cell
+lung microvascular endothelial cell female
+GM03348 genetically modified using transduction treated with 3 μg/mL doxycycline for 10 days
+GM12864
+heart male adult (27 years) and male adult (35 years)
+MCF-7 genetically modified using RNAi
+hepatic stellate cell female adult (59 years)
+GM04504
+GM04503
+iris pigment epithelial cell
+dermis blood vessel endothelial cell male newborn
+T-helper 2 cell female adult (26 years)
+T-helper 2 cell male adult (33 years)
+adrenal gland female embryo (85 days)
+foreskin fibroblast male newborn
+placenta female embryo (85 days)
+large intestine female embryo (105 days)
+MCF-7
+lung microvascular endothelial cell female
+dermis blood vessel endothelial cell male newborn
+CMK
+T-helper 1 cell male adult (33 years)
+epithelial cell of prostate
+fibroblast of the aortic adventitia female
+epithelial cell of proximal tubule
+fibroblast of skin of upper back male embryo (97 days)
+lung embryo (67 days)
+lung female embryo (120 days)
+K562 G1 phase
+LNCaP clone FGC
+left renal cortex interstitium male embryo (120 days)
+non-pigmented ciliary epithelial cell
+fibroblast of peridontal ligament male
+placenta embryo (102 days)
+cardiac fibroblast
+T-cell male adult (37 years)
+CD4-positive, alpha-beta T cell male adult (21 years) treated with 7.5 μg/kg G-CSF for 4 days
+right lung female embryo (108 days)
+adrenal gland male embryo (108 days)
+osteoblast
+CD8-positive, alpha-beta T cell male adult (37 years)
+left arm bone male embryo (81 days)
+stomach male embryo (127 days)
+heart female embryo (117 days)
+GM12878
+keratinocyte female
+ovary female adult (30 years)
+GM12878
+right lung female embryo (117 days)
+large intestine female embryo (120 days)
+fibroblast of mammary gland female
+spinal cord male embryo (96 days)
+fibroblast of skin of left biceps male embryo (97 days)
+GM18507
+left kidney female embryo (110 days)
+right renal pelvis male embryo (105 days)
+right renal pelvis male embryo (105 days)
+HS-27A
+stomach female embryo (107 days)
+left leg bone male embryo (81 days)
+stomach male child (3 years)
+adrenal gland female embryo (108 days)
+large intestine female embryo (107 days)
+right kidney male embryo (87 days)
+brain male embryo (105 days)
+urothelium cell line
+frontal cortex female adult (67 years) and female adult (80 years)
+MCF-7 treated with 10 mM lactate for 24 hours
+endothelial cell of umbilical vein newborn
+T-helper 1 cell female adult (26 years)
+NT2/D1
+GM12892
+muscle of leg female embryo (85 days)
+CD4-positive, alpha-beta T cell male adult (37 years)
+right renal pelvis male embryo (120 days)
+renal pelvis male embryo (108 days)
+muscle of trunk female embryo (120 days)
+CD4-positive, alpha-beta T cell female adult (33 years)
+adrenal gland male embryo (85 days)
+left lung female embryo (98 days)
+stomach female embryo (147 days)
+muscle of arm male embryo (104 days)
+left kidney female embryo (98 days)
+renal cortex interstitium male embryo (108 days)
+GM12865
+K562 G2 phase
+right lung male embryo (105 days)
+C803
+muscle of back male embryo (104 days)
+HK-2
+right lung female embryo (110 days)
+regulatory T cell male adult (28 years)
+germinal center
+LNCaP clone FGC
+MCF-7 treated with 100 nM estradiol for 1 hour
+placenta female embryo (105 days)
+dermis blood vessel endothelial cell female adult
+hematopoietic multipotent progenitor cell
+T-helper 17 cell
+muscle of leg male embryo (96 days)
+HuH-7.5
+MCF-7
+pulmonary artery endothelial cell female
+stomach female embryo (121 days)
+muscle of leg male embryo (115 days)
+muscle of arm female embryo (98 days)
+muscle of arm male embryo (96 days)
+iPS-NIHi11 originated from AG20443
+common myeloid progenitor, CD34-positive male adult (36 years)
+B cell female adult (34 years)
+AG08396
+muscle of arm embryo (101 days)
+muscle of leg male embryo (96 days)
+muscle of arm male embryo (127 days)
+muscle of back male embryo (108 days)
+fibroblast of pulmonary artery
+lung male embryo (108 days)
+right lung female embryo (98 days)
+left renal pelvis male embryo (105 days)
+D721Med
+heart female embryo (110 days)
+muscle of arm male embryo (101 days)
+muscle of arm female embryo (115 days)
+spinal cord female embryo (113 days)
+K562 treated with 1 μM vorinostat for 72 hours
+CD4-positive, alpha-beta T cell male adult (21 years)
+placenta male embryo (85 days)
+renal cortex interstitium male embryo (113 days)
+EL
+left renal pelvis male embryo (105 days)
+renal pelvis female embryo (96 days)
+thymus female embryo
+fibroblast of villous mesenchyme
+adrenal gland embryo (96 days)
+skin of body female embryo (82 days)
+naive thymus-derived CD4-positive, alpha-beta T cell female adult (35 years)
+right lung female embryo (105 days)
+NB4
+left lung male embryo (113 days)
+small intestine male embryo (108 days)
+common myeloid progenitor, CD34-positive female adult (50 years)
+stomach female embryo (105 days)
+small intestine female embryo (120 days)
+common myeloid progenitor, CD34-positive male adult (37 years)
+natural killer cell male adult (37 years)
+GM10266
+left lung female embryo (91 days)
+adrenal gland male embryo (101 days)
+WI38 genetically modified using stable transfection originated from WI38
+HepG2
+fibroblast of skin of right biceps male embryo (97 days)
+brain male embryo (101 days)
+common myeloid progenitor, CD34-positive male adult (49 years)
+muscle of back male embryo (96 days)
+naive B cell
+left lung female embryo (105 days)
+B cell male adult (37 years)
+right kidney female embryo (107 days)
+lung embryo (112 days)
+muscle of leg male embryo (127 days)
+thymus female embryo (147 days)
+thymus male embryo (127 days)
+muscle of trunk female embryo (113 days)
+renal cortex interstitium male embryo (97 days)
+left lung male embryo (105 days)
+muscle of arm male embryo (120 days)
+T-cell
+left lung male embryo (96 days)
+large intestine male embryo (105 days)
+heart male embryo (120 days)
+T-cell male adult (21 years) treated with 7.5 μg/kg G-CSF for 4 days
+lung male embryo (103 days)
+kidney female embryo (105 days)
+brain male embryo (122 days)
+natural killer cell female adult (34 years)
+brain female embryo (109 days)
+foreskin keratinocyte male newborn
+CD8-positive, alpha-beta T cell female adult (34 years)
+right renal cortex interstitium male embryo (105 days)
+COLO829
+muscle of leg male embryo (104 days)
+kidney female embryo (121 days)
+choroid plexus epithelial cell
+iPS DF 19.7
+CD4-positive, alpha-beta T cell male adult (37 years) treated with 7.5 μg/kg G-CSF for 4 days
+small intestine female embryo (105 days)
+small intestine female embryo (98 days)
+right lung female embryo (91 days)
+large intestine female embryo (103 days)
+WI38 genetically modified using stable transfection originated from WI38 treated with 20 nM afimoxifene for 72 hours
+forelimb muscle female embryo (108 days)
+thymus male embryo (104 days)
+renal cortex interstitium male embryo (127 days)
+left kidney female embryo (87 days)
+fibroblast of skin of scalp male embryo (97 days)
+heart embryo (101 days)
+right lung male embryo (115 days)
+fibroblast of skin of left biceps male embryo (97 days)
+fibroblast of skin of back male embryo (97 days)
+small intestine female embryo (108 days)
+common myeloid progenitor, CD34-positive male adult (23 years)
+left lung male embryo (115 days)
+large intestine female embryo (98 days)
+right lung male embryo (96 days)
+GM10248
+HL-60
+muscle of arm male embryo (96 days)
+lung male embryo (82 days)
+fibroblast of skin of left quadriceps male embryo (97 days)
+kidney male embryo (87 days)
+common myeloid progenitor, CD34-positive male adult (42 years)
+GM19238
+renal cortical epithelial cell
+muscle of arm male embryo (97 days)
+fibroblast of skin of upper back male embryo (97 days)
+spinal cord female embryo (87 days)
+muscle of leg male embryo (105 days)
+muscle of leg male embryo (97 days)
+stomach female embryo (96 days)
+T-cell male adult (21 years)
+muscle of back female embryo (98 days)
+AG09309
+hindlimb muscle male embryo (120 days)
+right kidney male embryo (115 days)
+stomach male embryo (91 days)
+K562 treated with 500 μM sodium butyrate for 72 hours
+brain female embryo (117 days)
+lung embryo (101 days)
+small intestine male embryo (105 days)
+RWPE1
+CD8-positive, alpha-beta T cell male adult (21 years)
+common myeloid progenitor, CD34-positive male adult (43 years)
+CD14-positive monocyte male adult (37 years)
+spleen embryo (112 days)
+muscle of back female embryo (113 days)
+right kidney female embryo (87 days)
+AG20443
+LNCaP clone FGC treated with 1 nM 17β-hydroxy-17-methylestra-4,9,11-trien-3-one for 12 hours
+right kidney male embryo (96 days)
+thymus female embryo (113 days)
+left kidney female embryo (107 days)
+muscle of back female embryo (105 days)
+heart male embryo (96 days)
+heart male child (3 years)
+heart male embryo (110 days)
+stomach female embryo (96 days)
+muscle of leg male embryo (97 days)
+right renal cortex interstitium male embryo (105 days)
+renal cortex interstitium female embryo (96 days)
+left kidney female embryo (147 days)
+renal pelvis male embryo (91 days)
+heart female embryo (91 days)
+brain female embryo (142 days)
+common myeloid progenitor, CD34-positive male
+renal pelvis female embryo (103 days)
+fibroblast of skin of scalp male embryo (97 days)
+left lung female embryo (108 days)
+GM23248
+placenta female embryo (108 days)
+CD8-positive, alpha-beta T cell male adult (21 years) treated with 7.5 μg/kg G-CSF for 4 days
+renal cortex interstitium male embryo (108 days)
+bipolar neuron originated from GM23338 treated with 0.5 μg/mL doxycycline hyclate for 4 days
+GM19240
+muscle of back female embryo (105 days)
+renal cortex interstitium female embryo (96 days)
+bronchial epithelial cell female treated with 6 μM retinoic acid for 48 hours
+muscle of back male embryo (97 days)
+naive thymus-derived CD4-positive, alpha-beta T cell
+thymus female embryo (98 days)
+renal cortex interstitium female embryo (120 days)
+placenta male embryo (91 days)
+kidney female embryo (120 days)
+GM23338 originated from GM23248
+left renal pelvis male embryo (105 days)
+CD8-positive, alpha-beta T cell female adult (33 years)
+kidney female embryo (105 days)
+kidney male embryo (85 days)
+stomach female embryo (98 days)
+muscle of leg male embryo (101 days)
+stomach male embryo (108 days)
+stomach female embryo
+foreskin fibroblast male newborn
+right lung female embryo (107 days)
+muscle of arm female embryo (120 days)
+testis male embryo
+common myeloid progenitor, CD34-positive female adult (27 years)
+right kidney female embryo (98 days)
+HFF-Myc originated from foreskin fibroblast
+stomach female embryo (105 days)
+muscle of leg female embryo (113 days)
+small intestine male embryo (87 days)
+left lung female embryo (107 days)
+spinal cord male embryo (105 days)
+left lung male embryo (91 days)
+brain female embryo (85 days)
+stomach female embryo (108 days)
+left kidney male embryo (87 days)
+foreskin fibroblast male newborn
+thymus male embryo (113 days)
+right kidney female embryo (117 days)
+left kidney male embryo (96 days)
+left renal cortex interstitium male embryo (105 days)
+muscle of arm female embryo (105 days)
+astrocyte of the spinal cord
+kidney female embryo (85 days)
+muscle of leg female embryo (105 days)
+muscle of back male embryo (91 days)
+small intestine female embryo (91 days)
+common myeloid progenitor, CD34-positive female
+left lung female embryo (110 days)
+left renal cortex interstitium male embryo (105 days)
+iPS DF 4.7
+lung female embryo (108 days)
+iPS DF 6.9
+small intestine female embryo (110 days)
+natural killer cell male adult (21 years)
+HeLa-S3
+brain embryo (112 days)
+left lung female embryo (117 days)
+renal cortex interstitium female embryo (103 days)
+spinal cord female embryo (89 days)
+T-cell male adult (36 years)
+renal pelvis female embryo (96 days)
+right renal pelvis male embryo (105 days)
+A549
+muscle of back female embryo (115 days)
+stomach embryo (101 days)
+large intestine female embryo (91 days)
+testis male embryo
+large intestine female embryo (108 days)
+lung female embryo (96 days)
+foreskin keratinocyte male newborn
+muscle of arm male embryo (97 days)
+IMR-90
+brain female embryo (105 days)
+adrenal gland female embryo (113 days)
+heart female embryo (105 days)
+kidney female embryo (108 days)
+renal pelvis female embryo (89 days)
+kidney female embryo (113 days)
+left renal pelvis male embryo (120 days)
+small intestine male embryo (115 days)
+renal pelvis male embryo (127 days)
+brain male embryo (104 days)
+foreskin melanocyte male newborn
+left lung male embryo (87 days)
+WERI-Rb-1
+stromal cell of bone marrow male
+muscle of arm male embryo (115 days)
+lung female embryo (85 days)
+M059J
+thymus female embryo (105 days)
+right renal cortex interstitium male embryo (120 days)
+heart female embryo (147 days)
+H54
+hepatocyte
+BJ
+large intestine male embryo (91 days)
+large intestine male embryo (108 days)
+right kidney female embryo (147 days)
+ELR
+heart embryo (96 days)
+ovary female embryo
+renal pelvis female embryo (105 days)
+placenta female embryo (113 days)
+left kidney male embryo (115 days)
+right kidney male embryo (108 days)
+HuH-7
+astrocyte of the hippocampus
+heart female embryo (103 days)
+muscle of back female embryo (85 days)
+amniotic epithelial cell
+cardiac muscle cell
+muscle of leg female embryo (115 days)
+muscle of arm male embryo (105 days)
+kidney epithelial cell
+epithelial cell of esophagus
+Ishikawa treated with 0.02% dimethyl sulfoxide for 1 hour
+large intestine female embryo (110 days)
+muscle of back male embryo (105 days)
+fibroblast of skin of right quadriceps male embryo (97 days)
+common myeloid progenitor, CD34-positive female adult (33 years)
+CD14-positive monocyte female adult (34 years)
+kidney male embryo (105 days)
+left renal cortex interstitium male embryo (105 days)
+small intestine female embryo (107 days)
+thymus male embryo (108 days)
+pancreas female adult (30 years)
+muscle of back male embryo (96 days)
+renal cortex interstitium female embryo (89 days)
+GM12891
+foreskin melanocyte male newborn
+CWRU1
+psoas muscle male adult (27 years) and male adult (35 years)
+dermis microvascular lymphatic vessel endothelial cell male
+D341Med
+muscle of trunk female embryo (121 days)
+large intestine male embryo (113 days)
+AG10803
+small intestine male embryo (91 days)
+right lung male embryo (87 days)
+8988T
+HFFc6
+common myeloid progenitor, CD34-positive male adult
+Caco-2
+muscle of arm female embryo (85 days)
+muscle of arm male embryo (113 days)
+astrocyte of the cerebellum
+T-helper 1 cell
+iPS-NIHi7 originated from AG08395
+dermis microvascular lymphatic vessel endothelial cell female
+CD14-positive monocyte male adult (21 years)
+fibroblast of skin of left quadriceps male embryo (97 days)
+retina embryo (125 days) and male embryo (103 days)
+GM19239
+muscle of back male embryo (127 days)
+HS-5
+brain microvascular endothelial cell
+fibroblast of gingiva
+foreskin fibroblast male newborn
+MCF-7 originated from MCF-7
+fibroblast of skin of abdomen male embryo (97 days)
+iPS DF 19.11
+T-helper 2 cell
+heart male embryo (105 days)
+smooth muscle cell of the brain vasculature female
+renal cortex interstitium male embryo (91 days)
+retina embryo (74 days) and embryo (85 days)
+SK-N-SH treated with 6 μM all-trans-retinoic acid for 48 hours
+K562
+brain female embryo (96 days)
+fibroblast of lung
+T-helper 1 cell
+large intestine male embryo (115 days)
+right atrium auricular region female adult (51 years)
+heart left ventricle female embryo (136 days)
+muscle of back male embryo (101 days)
+bronchial epithelial cell
+naive thymus-derived CD4-positive, alpha-beta T cell male adult (26 years)
+renal pelvis male embryo (97 days)
+renal pelvis male embryo (113 days)
+SK-N-MC
+sigmoid colon male adult (54 years)
+mesendoderm originated from H1
+stomach male adult (54 years)
+endothelial cell of umbilical vein newborn
+large intestine male embryo (105 days)
+SK-N-DZ treated with dimethyl sulfoxide for 72 hours
+SK-MEL-5
+CD14-positive monocyte female
+HPDE6-E6E7
+K562 treated with 0.05% dimethyl sulfoxide for 72 hours
+pancreas male adult (34 years)
+AG09319
+AG08395
+Jurkat clone E61
+coronary artery female adult (51 years)
+Ishikawa treated with 600 nM afimoxifene for 30 minutes
+HeLa-S3 treated with interferon alpha for 4 hours
+cardiac muscle cell originated from H7 treated with 5 ng/mL Fibroblast growth factor 2 for 14 days, 10 ng/mL Bone morphogenetic protein 4 for 14 days, 6 ng/mL Activin A for 14 days
+heart embryo (59 days) and female embryo (76 days)
+mesodermal cell originated from H7 treated with 5 ng/mL Fibroblast growth factor 2 for 2 days, 6 ng/mL Activin A for 2 days, 10 ng/mL Bone morphogenetic protein 4 for 2 days
+sigmoid colon female adult (51 years)
+heart left ventricle female embryo (101 days) and female embryo (103 days)
+endodermal cell
+femur female embryo (98 days)
+left cardiac atrium female embryo (101 days)
+HEK293T
+H7
+HCT116
+skeletal muscle myoblast
+KBM-7
+H9
+BE2C
+cerebellum male adult (27 years) and male adult (35 years)
+T47D treated with 10 nM 17β-estradiol for 30 minutes
+placenta embryo (56 days) and embryo (59 days)
+kidney embryo (59 days) and female embryo (59 days)
+neural progenitor cell originated from H9
+HAP-1
+trophoblast cell originated from H1
+lung female embryo (76 days)
+mesenchymal stem cell originated from H1
+neural stem progenitor cell originated from H1
+AG04449
+eye embryo (56 days) and male embryo (76 days)
+OCI-LY7
+A549
+T47D
+dedifferentiated amniotic fluid mesenchymal stem cell male embryo (15 weeks)
+Panc1
+Ishikawa treated with 10 nM 17β-estradiol for 30 minutes
+right kidney male embryo (91 days)
+tongue male embryo (72 days)
+stomach female adult (51 years)
+H1
+AG04450
+transverse colon female adult (51 years)
+B cell female adult (43 years)
+upper lobe of left lung male adult (37 years)
+placenta female embryo (101 days) and male embryo (105 days)
+liver female embryo (101 days) and female embryo (113 days)
+cardiac myoblast originated from H7 treated with 10 ng/mL Bone morphogenetic protein 4 for 9 days, 5 ng/mL Fibroblast growth factor 2 for 9 days, 6 ng/mL Activin A for 9 days
+H7
+trophoblast cell embryo (21 weeks)
+stomach male adult (34 years)
+hematopoietic multipotent progenitor cell
+myotube originated from skeletal muscle myoblast
+eye female embryo (76 days)
+heart right ventricle female embryo (101 days) and female embryo (103 days)
+cardiovascular progenitor cell originated from H7 treated with 5 ng/mL Fibroblast growth factor 2 for 5 days, 10 ng/mL Bone morphogenetic protein 4 for 5 days, 6 ng/mL Activin A for 5 days
+CD14-positive monocyte female
+hepatocyte originated from H9
+islet precursor cell
+brain embryo (56 days) and male embryo (58 days)
+Karpas-422
+tibial artery female adult (53 years)
+psoas muscle male child (3 years)
+occipital lobe male adult (84 years)
+fibroblast of lung male adult (45 years)
+vagina female adult (53 years)
+hematopoietic multipotent progenitor cell treated with interleukin-3 for 13 days, kit ligand for 13 days, hydrocortisone succinate for 13 days, erythropoietin for 13 days
+skeletal muscle cell
+coronary artery female adult (53 years)
+omental fat pad female adult (53 years)
+Daoy
+heart left ventricle female adult (53 years)
+adrenal gland female adult (53 years)
+placenta embryo (53 days)
+vagina female adult (51 years)
+trophoblast cell embryo (23 weeks)
+kidney female embryo (76 days) and male embryo (76 days)
+keratinocyte female
+hematopoietic multipotent progenitor cell
+lung embryo (80 days) and male embryo (76 days)
+CD1c-positive myeloid dendritic cell
+retina female embryo (89 days)
+mammary epithelial cell female
+brain male embryo (72 days) and male embryo (76 days)
+tongue female embryo (59 days) and female embryo (76 days)
+testis male adult (54 years)
+L1-S8R
+hematopoietic multipotent progenitor cell treated with interleukin-3 for 18 days, kit ligand for 18 days, hydrocortisone succinate for 18 days, erythropoietin for 18 days
+tibial nerve female adult (51 years)
+brain embryo (80 days)
+hematopoietic multipotent progenitor cell treated with interleukin-3 for 6 days, kit ligand for 6 days, hydrocortisone succinate for 6 days, erythropoietin for 6 days
+heart embryo (80 days)
+esophagus muscularis mucosa male adult (37 years)
+hematopoietic multipotent progenitor cell treated with interleukin-3 for 11 days, kit ligand for 11 days, hydrocortisone succinate for 11 days, erythropoietin for 11 days
+urinary bladder male embryo (76 days)
+esophagus squamous epithelium male adult (37 years)
+kidney embryo (80 days)
+PC-9
+NAMALWA treated with Sendai virus for 2 hours
+sigmoid colon female adult (53 years)
+liver embryo (59 days) and embryo (80 days)
+stomach male embryo (58 days) and male embryo (76 days)
+hematopoietic multipotent progenitor cell treated with erythropoietin for 20 days, hydrocortisone succinate for 20 days, kit ligand for 20 days, interleukin-3 for 20 days
+astrocyte
+hematopoietic multipotent progenitor cell treated with interleukin-3 for 4 days, kit ligand for 4 days, hydrocortisone succinate for 4 days, erythropoietin for 4 days
+Peyer's patch male adult (37 years)
+HeLa-S3 G1b phase
+H1
+lung male embryo (54 days) and male embryo (58 days)
+fibroblast of dermis female adult
