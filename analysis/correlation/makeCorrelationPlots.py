@@ -12,16 +12,23 @@ import argparse
 from scipy.stats import pearsonr, spearmanr
 from utils import *
 
+pd.options.mode.chained_assignment = None
 gc.disable()
 
-parser = argparse.ArgumentParser()
-parser.add_argument('--clusters', help="File with enhancer regions")
-parser.add_argument('--save_outdir', help="Path to save files")
-parser.add_argument('--celltypes', help="File with list of celltypes")
-args = parser.parse_args()
+def parse_args():
+    parser = argparse.ArgumentParser()
+    parser.add_argument('--clusters', help="File with enhancer regions")
+    parser.add_argument('--save_outdir', help="Path to save files")
+    parser.add_argument('--celltypes', help="File with list of celltypes")
+    args = parser.parse_args()
+    return args 
 
-pd.options.mode.chained_assignment = None
+
 def main():
+    args = parse_args()
+    generateIndividualClusterFiles(args)
+
+def generateIndividualClusterFiles(args):
     not_found = []
     cluster_vals = []
     spearmanr_vals = []
@@ -29,9 +36,9 @@ def main():
     abc_scores_vals ={}
     distance_vals = {}
     dist_not_found_1 = []
-    clusters = pd.read_csv("cluster_files_test.txt", sep="\t", header=None)
-    cells = pd.read_csv("SeventyOne_CellTypes.txt", sep="\t", header=None)
-    save_outdir = "/srv/scratch/kmualim/non_expressed_links/"
+    clusters = pd.read_csv(args.clusters, sep="\t", header=None)
+    cells = pd.read_csv(args.celltypes, sep="\t", header=None)
+    save_outdir = args.save_outdir
     for name in clusters[0]:
         print("Cluster", name)
         try:
@@ -67,7 +74,8 @@ def main():
             f.write(str(spearmanr))
             f.write("\n")
         f.close()
-    
+
+    print("Clusters that were not found")
     with open(os.path.join(save_outdir, "clusters_notfound_cellines_{}.txt".format(name)), "w") as f:
         for listitem in not_found:
             f.write('{}\n'.format(str(listitem)))
@@ -78,11 +86,6 @@ def main():
     print("Saving DistanceValues")
     pickle.dump(distance_vals, open(os.path.join(save_outdir, "DistanceValues_Cluster_{}.p".format(name)), "wb"), protocol=-1)
 
-    print(len(spearmanr_vals))
-    print(len(pearsonr_vals))
-    print(len(cluster_vals))
-    print(len(abc_scores_vals))
-    print(len(distance_vals))
     
     # plot ABC behaviour across K562
     plot_outdir = "/oak/stanford/groups/akundaje/projects/ABC_links/plots/CellTypes_EnhancerPromoterPropertiesPlots/Version2_plots/non_expressed_links/plots"

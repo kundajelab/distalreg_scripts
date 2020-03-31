@@ -9,16 +9,22 @@ import time
 import gzip
 import csv
 import dask.dataframe as dd
+import argparse
 from tqdm import tqdm
 
-outdir = "/mnt/lab_data3/kmualim/PredictionFiles/"
-save_outdir = "/mnt/lab_data3/kmualim/CorrelationPlotsCellLines/fullk562_data/non_expressed"
-cell_files = sys.argv[1]
-cells = pd.read_csv(cell_files, sep="\t", header=None)
+parser = argparse.ArgumentParser()
+#parser.add_argument('--outdir', help="Path to directory to save files")
+parser.add_argument('--save_outdir', help="Directory to save files")
+parser.add_argument('--cells', help="File with list of celltypes")
+args = parser.parse_args()
 
-def process_cell(cell):
+#outdir = "/mnt/lab_data3/kmualim/PredictionFiles/"
+#save_outdir = "/mnt/lab_data3/kmualim/CorrelationPlotsCellLines/fullk562_data/non_expressed"
+#cell_files = sys.argv[1]
+#cells = pd.read_csv(cell_files, sep="\t", header=None)
+
+def process_cell(cell, save_outdir):
     print(cell)
-    time.time()
     save_outdir = "/mnt/lab_data3/kmualim/CorrelationPlotsCellLines/splitK562_files/non_expressed"
     fpath = os.path.join(save_outdir, "{}_Intersected.tsv.gz".format(cell))
    
@@ -43,23 +49,26 @@ def process_cell(cell):
         data_to_keep = chunk.loc[chunk['TargetGene']==chunk['TargetGene_{}'.format(cell)]]
         names = data_to_keep['name'].drop_duplicates()
         for name in names:
-            outpath = '../non_expressed/files_v2/{}_Intersected.csv.gz'.format(name)
+            outfile = '{}_Intersected.csv.gz'.format(name)
             chunkpername = data_to_keep.loc[data_to_keep['name']==name]
-            chunkpername.to_csv(outpath, mode='a', sep="\t", compression="gzip")
+            chunkpername.to_csv(os.path.join(save_outdir, outfile), mode='a', sep="\t", compression="gzip", index=False)
 
 
     for chunk in tqdm(data):
         chunk['cellType'] = cell
         keep_chunk(chunk)
+
+def gen(cells):
     for i in cells:
         yield i
 
 if __name__=='__main__':
+    cells = pd.read_csv(args.cells, sep="\t", header=None)
     generator = gen(cells[0])
     for cell in tqdm(generator):
-        process_cell(cell)
+        process_cell(cell, args.save_outdir)
     
-    # To start preprocessing 
+    # To start multiprocessing
     #with Pool(15) as p:
     #    p.map(process_cell, list(cells[0]))
 
